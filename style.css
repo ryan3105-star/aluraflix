@@ -1,0 +1,21 @@
+body {
+    background-color: chocolate;
+    color: palevioletred;
+    font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
+    margin: 0
+   }
+   
+ header {
+    font-size: 60PX;
+    padding: 6PX;
+    text-align: center
+ }
+
+h1 {
+   font-size: 30px;
+   border-bottom: double 5px yellow;
+   text-align: center;
+}
+
+p {
+   font ; 
